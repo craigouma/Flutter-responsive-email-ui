@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.outlook" >
+    <!--Flutter needs to communicate with the running application to allow setting breakpoints-->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
